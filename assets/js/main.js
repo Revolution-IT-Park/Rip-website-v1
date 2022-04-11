@@ -175,7 +175,7 @@ mainSlider();
 		]
 	});
 
-	$('.sponsor-active').slick({
+	$('.client-active').slick({
 		speed: 1000,
 		autoplay: false,
 		autoplaySpeed: 3000,
@@ -215,7 +215,7 @@ mainSlider();
 			// instead of a settings object
 		]
 	});
-	$('.sponsor-active--h3').slick({
+	$('.client-active--h3').slick({
 		speed: 1000,
 		autoplay: false,
 		autoplaySpeed: 3000,

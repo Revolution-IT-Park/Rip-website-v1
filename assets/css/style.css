@@ -1,6 +1,6 @@
 /*-----------------------------------------------------------------------------------
 
-    Template Name: Neeha - Technology IT Solutions & Services HTML5 Template
+    Template Name: Revolution IT Park
     Description: Neeha Technology IT Solutions & Services HTML5 Template
     Author: BDevs
     Version: 1.0
@@ -4873,31 +4873,24 @@ label {
 /*----------------------------------------*/
 /*  13. Sponsor
 /*----------------------------------------*/
-.sponsor__single {
+.client_single {
   text-align: center; }
-  .sponsor__single img {
+  .client_single img {
     display: inline-block; }
 
-.sponsor__hr {
+.client__hr {
   border-bottom: 2px solid #ececec;
   margin: 0; }
 
-.sponsor__single.slick-slide.slick-current.slick-active img {
-  filter: invert(100%);
-  outline: 0; }
-
-.sponsor-active--h3 .sponsor__single.slick-slide.slick-current.slick-active img {
-  filter: invert(1%);
-  outline: 0; }
-
-.sponsor__single.slick-slide {
+  
+.client_single.slick-slide {
   outline: 0 !important; }
 
-.sponsor-active .slick-track {
+.client-active .slick-track {
   display: flex !important;
   align-items: center !important; }
 
-.sponsor-active--h3 .slick-track {
+.client-active--h3 .slick-track {
   display: flex;
   align-items: center; }
 
