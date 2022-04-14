@@ -141,7 +141,8 @@ li {
   list-style: none; }
 
 p {
-  font-size: 15px;
+  font-size: 17px;
+  text-align: justify;
   font-weight: normal;
   line-height: 28px;
   color: #696969;
@@ -258,7 +259,8 @@ label {
   margin-top: 15px; }
 
 .mt-20 {
-  margin-top: 20px; }
+  margin-top: 20px; 
+  font-size: large; }
 
 .mt-25 {
   margin-top: 25px; }
@@ -5198,7 +5200,7 @@ label {
   right: 182px; }
 
 .btn-menu-main {
-  background: #152136;
+  background: #f8f8f8;
   height: 100%;
   padding: 30px;
   position: fixed;
@@ -5214,7 +5216,7 @@ label {
   transform: translateX(0); }
 
 .crose {
-  color: #fff;
+  color: #221f48;
   float: right;
   cursor: pointer; }
 
@@ -5233,13 +5235,13 @@ label {
   width: 100%; }
 
 .social-icon-right > a {
-  color: #fff;
+  color: #221f48;
   display: inline-block;
   margin-right: 20px;
   text-align: center; }
 
 .social-icon-right > a:hover {
-  color: #ff4a57; }
+  color: #fbd019; }
 
 .instagram {
   overflow: hidden;
@@ -5256,15 +5258,15 @@ label {
   padding-top: 25px; }
 
 .contact-list h4 {
-  color: #fff;
+  color: #221f48;
   font-weight: 700;
   font-size: 20px; }
 
 .contact-list p {
-  color: #fff;
-  opacity: .5;
+  color: #221f48  ;
+  opacity: .8;
   margin: 0;
-  margin-bottom: 2px; }
+  margin-bottom: 1px; }
 
 /* Menu Search
 -------------------------------------------------------*/
