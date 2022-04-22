@@ -4974,6 +4974,7 @@ label {
 
 .footer__copyright p {
   padding: 20px 0;
+  text-align: center;
   border-top: 2px solid #e6e6e6; }
 
 .footer__copyright--h4 p {
