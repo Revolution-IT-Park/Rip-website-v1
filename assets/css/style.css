@@ -858,7 +858,7 @@ label {
   padding-top: 5px; }
 
 .pt-10 {
-  padding-top: 10px; }
+  padding-top: 100px; }
 
 .pt-15 {
   padding-top: 15px; }
@@ -1039,7 +1039,9 @@ label {
   padding-bottom: 55px; }
 
 .pb-60 {
-  padding-bottom: 60px; }
+  padding-bottom: 60px;
+  background-color: #fdecb9
+  ; }
 
 .pb-65 {
   padding-bottom: 65px; }
@@ -1057,7 +1059,8 @@ label {
   padding-bottom: 85px; }
 
 .pb-90 {
-  padding-bottom: 90px; }
+  padding-bottom: 90px;
+  background:#fff2cb }
 
 .pb-95 {
   padding-bottom: 95px; }
