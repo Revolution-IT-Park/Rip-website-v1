@@ -7,7 +7,7 @@
 
 -----------------------------------------------------------------------------------
 
-    CSS INDEX
+    CSS index
     ===================
     01. Theme default CSS
     02. Header
@@ -17,9 +17,9 @@
     06. History
     07. Team
     08. Contacts
-    09. Projects
+    09. projects
     10. statistics
-    11. Projects
+    11. projects
     12. Blog
     13. Blog
     14. Footer
@@ -401,6 +401,7 @@ label {
   margin-top: 250px; }
 
 /*-- Margin Bottom --*/
+
 .mb-5 {
   margin-bottom: 5px; }
 
@@ -1040,7 +1041,7 @@ label {
 
 .pb-60 {
   padding-bottom: 60px;
-  background-color: #fdecb9
+  
   ; }
 
 .pb-65 {
@@ -3750,7 +3751,7 @@ label {
   width: 100%; }
 
 /*----------------------------------------*/
-/*  09. Projects
+/*  09. projects
 /*----------------------------------------*/
 .project__search {
   margin-bottom: 10px;
@@ -3974,7 +3975,7 @@ label {
   right: 0; }
 
 /*----------------------------------------*/
-/*  11. Projects
+/*  11. projects
 /*----------------------------------------*/
 .review__arrow {
   opacity: 1;

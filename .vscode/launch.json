@@ -7,8 +7,8 @@
         {
             "type": "pwa-chrome",
             "request": "launch",
-            "name": "Open Projects.html",
-            "file": "e:\\Rip website v1\\Rip-website-v1\\Projects.html"
+            "name": "Open projects.html",
+            "file": "e:\\Rip website v1\\Rip-website-v1\\index.html"
         }
     ]
 }
