@@ -215,6 +215,11 @@ label {
 /*--
     - color
 -----------------------------------------*/
+.color {
+  color:#221f3c;
+}
+
+
 .white-color {
   color: #ffffff; }
 
@@ -6094,9 +6099,9 @@ input.main-search-input:-ms-input-placeholder {
     content: "";
     width: 100%;
     height: 100%;
-    background-image: -moz-linear-gradient(90deg, rgba(34, 31, 60, 0.94902) 0%, rgba(34, 31, 60, 0.47) 40%, rgba(34, 31, 60, 0.45) 43%, rgba(34, 31, 60, 0) 100%);
+    /*--background-image: -moz-linear-gradient(90deg, rgba(34, 31, 60, 0.94902) 0%, rgba(34, 31, 60, 0.47) 40%, rgba(34, 31, 60, 0.45) 43%, rgba(34, 31, 60, 0) 100%);
     background-image: -webkit-linear-gradient(90deg, rgba(34, 31, 60, 0.94902) 0%, rgba(34, 31, 60, 0.47) 40%, rgba(34, 31, 60, 0.45) 43%, rgba(34, 31, 60, 0) 100%);
-    background-image: -ms-linear-gradient(90deg, rgba(34, 31, 60, 0.94902) 0%, rgba(34, 31, 60, 0.47) 40%, rgba(34, 31, 60, 0.45) 43%, rgba(34, 31, 60, 0) 100%);
+    background-image: -ms-linear-gradient(90deg, rgba(34, 31, 60, 0.94902) 0%, rgba(34, 31, 60, 0.47) 40%, rgba(34, 31, 60, 0.45) 43%, rgba(34, 31, 60, 0) 100%); --*/
     left: 0;
     top: 0;
     right: 0;
@@ -6137,7 +6142,7 @@ input.main-search-input:-ms-input-placeholder {
     margin-bottom: 5px; }
   .case__content ul li {
     display: inline-block;
-    color: #fff;
+    color: #221f3c  ;
     font-size: 13px;
     font-weight: 500;
     text-transform: uppercase;
